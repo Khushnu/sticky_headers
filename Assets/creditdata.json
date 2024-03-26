@@ -1,0 +1,143 @@
+{
+    "account": {
+      "id": 1,
+      "name": "Mujahid",
+      "currency": "SAR",
+      "currency_name": "Saudi Riyal",
+      "balance": 3210.21
+    },
+    "transactions": [
+      {
+        "id": 1,
+        "type": "credit",
+        "amount": 2145,
+        "details": {
+          "description": "Salary",
+          "from": "GeekyBugs",
+          "image": "https://avatars.githubusercontent.com/u/110381868?v=4"
+        },
+        "date": "2024-02-23 09:55:22"
+      },
+      {
+        "id": 2,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Grocery",
+          "from": "Carrefour",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-02-22 09:05:22"
+      },
+      {
+        "id": 3,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Grocery",
+          "from": "Carrefour",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-02-22 09:05:22"
+      },
+      {
+        "id": 4,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Food & Drinks",
+          "from": "McDonalds",
+          "image": "https://image.similarpng.com/very-thumbnail/2021/11/Mcdonalds-logo-on-transparent-background-PNG.png"
+        },
+        "date": "2024-02-21 10:05:22"
+      },
+      {
+        "id": 5,
+        "type": "credit",
+        "amount": 21,
+        "details": {
+          "description": "Refund",
+          "from": "Amazon",
+          "image": "https://pngimg.com/uploads/amazon/small/amazon_PNG27.png"
+        },
+        "date": "2024-02-22 09:05:22"
+      },
+      {
+        "id": 6,
+        "type": "credit",
+        "amount": 21,
+        "details": {
+          "description": "transfer",
+          "from": "Al Jumshaid",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-02-07 09:05:22"
+      },
+      {
+        "id": 1,
+        "type": "credit",
+        "amount": 2145,
+        "details": {
+          "description": "Salary",
+          "from": "GeekyBugs",
+          "image": "https://avatars.githubusercontent.com/u/110381868?v=4"
+        },
+        "date": "2024-01-23 09:55:22"
+      },
+      {
+        "id": 2,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Grocery",
+          "from": "Carrefour",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-01-22 09:05:22"
+      },
+      {
+        "id": 3,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Grocery",
+          "from": "Carrefour",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-01-22 09:05:22"
+      },
+      {
+        "id": 4,
+        "type": "debit",
+        "amount": 21,
+        "details": {
+          "description": "Food & Drinks",
+          "from": "McDonalds",
+          "image": "https://image.similarpng.com/very-thumbnail/2021/11/Mcdonalds-logo-on-transparent-background-PNG.png"
+        },
+        "date": "2024-01-21 10:05:22"
+      },
+      {
+        "id": 5,
+        "type": "credit",
+        "amount": 21,
+        "details": {
+          "description": "Refund",
+          "from": "Amazon",
+          "image": "https://pngimg.com/uploads/amazon/small/amazon_PNG27.png"
+        },
+        "date": "2024-01-22 09:05:22"
+      },
+      {
+        "id": 6,
+        "type": "credit",
+        "amount": 21,
+        "details": {
+          "description": "transfer",
+          "from": "Al Jumshaid",
+          "image": "https://i.pinimg.com/564x/e5/65/6d/e5656d91bb6fbc051d8df66ede9dbe69.jpg"
+        },
+        "date": "2024-01-07 09:05:22"
+      }
+    ]
+  }
